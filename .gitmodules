@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/VieDica/viedica.github.io.git
+	branch = master
